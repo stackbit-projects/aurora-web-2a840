@@ -5,9 +5,8 @@ sections:
     type: section_hero
     image_alt: App preview
     title: The Ultimate School Management System.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      You will never have to look for better!
     actions:
       - label: Learn More
         url: /features
